@@ -12,4 +12,6 @@ Recommended Configuration:
 10 GB SSD
 This is the recomendation configuration, so very basics
 I decide to go with the standalonne mode first, thinking that was much easier, and I wasn't able to deploy de builder.
-I found the erros on the logs that the https wsa the reason for this error, i tried a lot of stuff, the heartbeat was being emitting on the explorer of scroll
+I found the erros on the logs that the https wsa the reason for this error, i tried a lot of stuff, the heartbeat was being emitting on the explorer of scrol
+But the regristration was not done.
+By the way this is a think to upgrade in the discord channels, look like the builders chat 
