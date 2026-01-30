@@ -15,9 +15,9 @@ I decide to go with the standalonne mode first, thinking that was much easier, a
 My first mistake, i give the wronh private key with a wallet with no funds, i made that mistake, and took me a while to find the error
 In coding this is very intersting you took a while unitl you find the real reason why something is not working ans sometimes it's a very idiot, lol.
 After that my explorer start to emmit a heartbeat sign but with no registration yet
-
+Then searching in the log looks like that was some error 
 After i discover the mistake it took me a while, but the logs keep pointing for nos gas to complete so after i tried a lot of stuff i find the mistake7
 I found my  the erros on the logs that the https was the reason for this error, i tried a lot of stuff, the heartbeat was being emitting on the explorer of scrol
 But the regristration was not done.
-W
+Unfortally even the IA features wasn't able to find what was wrong
 
