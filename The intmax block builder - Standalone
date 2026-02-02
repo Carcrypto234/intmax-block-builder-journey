@@ -12,16 +12,18 @@ Recommended Configuration:
 10 GB SSD
 This is the recomendation configuration, so very basics
 I decide to go with the standalonne mode first, thinking that was much easier, and I wasn't able to deploy de builder.
-My first mistake, i give the wronh private key with a wallet with no funds, i made that mistake, and took me a while to find the error
+My first mistake, i give the wrong private key with a wallet with no funds, i made that mistake, and took me a while to find the error
 In coding this is very intersting you took a while unitl you find the real reason why something is not working ans sometimes it's a very idiot, lol.
 After that my explorer start to emmit a heartbeat sign but with no registration yet
 Then searching in the log looks like that was some error 
-After i discover the mistake it took me a while, but the logs keep pointing for nos gas to complete so after i tried a lot of stuff i find the mistake7
 I found my  the erros on the logs that the https was the reason for this error, i tried a lot of stuff, the heartbeat was being emitting on the explorer of scrol
 But the regristration was not done.
 Unfortally even the IA features I wasn't able to find what was wrong with that
 But this bring a valueble knoagdle start to read all the dcoumentation to deploy everything as the team point for. 
 The probleam of this is, without the background knodagle, chat gpt didn't help me with all my probleams.
 After studdyng a lot the team docs i discover that the probleam that I was facing was realated with my HTTP and my VPS server
+I tried to runn this with my personal computer and everything runned normal.
+The big stuff with the standalone mode is the more detailed systeam that you need to build with nano .env 
+But in resume, is not difficult at all you just need to adjust the nano .env file with you own 
 Then reading the docs I found the full network way for deployng the block builder and decided to try it
 
