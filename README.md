@@ -8,5 +8,5 @@ The goal is to openly share challenges, mistakes, tools, and lessons learned whi
 
 This is a public learning diary and open-source documentation project.
 
-# Peace to all
+# Peace to all!
 
