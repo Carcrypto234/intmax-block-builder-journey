@@ -1,5 +1,5 @@
 So after talking to chat gpt and making clear what was my plan with building a intmax block builder, they advise me for going to a vpn
-It was better for logical things, first works 24hours,second works paralel form my computer so its the best of the words
+It was better for logical things, first works 24hours,second works paralel from my computer so its the best of the words
 After some research I follow up with the contabo VPN, 
 The intmax block builder requires very low ussage sow the basic plan attends ver well
 There is 2 ways of deploys the intmax block builder 
@@ -24,6 +24,8 @@ The probleam of this is, without the background knodagle, chat gpt didn't help m
 After studdyng a lot the team docs i discover that the probleam that I was facing was realated with my HTTP and my VPS server
 I tried to runn this with my personal computer and everything runned normal.
 The big stuff with the standalone mode is the more detailed systeam that you need to build with nano .env 
-But in resume, is not difficult at all you just need to adjust the nano .env file with you own 
+But in resume, is not difficult at all you just need to adjust the nano .env file with your own credentials (private key, RPC and block builder URL) 
+Dowloading the docker systeam and running everything
+The good part of this docs is that it's also provide the checking systeam commands, like the health check and everything you need to know to with 
 Then reading the docs I found the full network way for deployng the block builder and decided to try it
 
