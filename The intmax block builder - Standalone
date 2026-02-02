@@ -19,8 +19,9 @@ Then searching in the log looks like that was some error
 After i discover the mistake it took me a while, but the logs keep pointing for nos gas to complete so after i tried a lot of stuff i find the mistake7
 I found my  the erros on the logs that the https was the reason for this error, i tried a lot of stuff, the heartbeat was being emitting on the explorer of scrol
 But the regristration was not done.
-Unfortally even the IA features wasn't able to find what was wrong with that
+Unfortally even the IA features I wasn't able to find what was wrong with that
 But this bring a valueble knoagdle start to read all the dcoumentation to deploy everything as the team point for. 
 The probleam of this is, without the background knodagle, chat gpt didn't help me with all my probleams.
-But then reading the docs I foung the full network way of deployng this block builder
+After studdyng a lot the team docs i discover that the probleam that I was facing was realated with my HTTP and my VPS server
+Then reading the docs I found the full network way for deployng the block builder and decided to try it
 
