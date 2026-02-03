@@ -1,4 +1,5 @@
 After deployng your intmac block builder, when you want to claim your rewards from that, it's not automatic.
 You need to go ahead to https://docs.network.intmax.io/developers-hub/intmax-block-builder/receive-rewards and take a deep look of what you will need to do
 The good part you can run this in any place, don1t need to be inside your block builder vps , in my case, you will just need your backupe private key for acessing you wallet 
-So first of all you will need to generate a ITX wallet and your private key of your Intmax wallet will be sended for you after you 
+So first of all you will need to generate a ITX wallet and your private key of your Intmax wallet will be sended for you after you run the cargo command
+But i recomend to after start to deploy everything, just go ahed at infura or 
